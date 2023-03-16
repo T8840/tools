@@ -16,6 +16,7 @@ Tools Summary
 2. Word Transfer
     - https://app.wordtune.com/
     - https://quillbot.com/
+    
 ### PPT
 1. AI Create
   - https://tome.app/
@@ -28,8 +29,13 @@ Tools Summary
   - https://www.canva.com/
   
 ### Voice
-
+1. AI Summary
+  - https://www.assemblyai.com/
+  - 
 ### Video
+1. AI Summary
+  - https://www.assemblyai.com/
+
 
 ### ComputerControl
 
