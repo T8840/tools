@@ -11,8 +11,11 @@ Tools Summary
 
 ### Word
 1. AI Create
-  - https://app.copy.ai/
-  
+  - https://app.copy.ai/  
+    - 有用量限制付费
+2. Word Transfer
+    - https://app.wordtune.com/
+    - https://quillbot.com/
 ### PPT
 1. AI Create
   - https://tome.app/
