@@ -2,13 +2,26 @@
 Tools Summary
 
 ## Auto Work
+### ChatGPT
+1. Good Question
+  - https://showgpt.co/
 
 ### Excel
+1. AI Create
+  - https://chatexcel.com/
+2. DataUI
+  - https://apitable.com
 
 ### PDF
 1. WebToPdf
   - https://pdfcrowd.com/
-
+2.  AI Create
+  - 
+### MarkDown
+1. Editor
+  - https://markdown.com.cn/editor/
+  - https://hackmd.io/
+  
 ### Word
 1. AI Create
   - https://app.copy.ai/  
@@ -40,3 +53,15 @@ Tools Summary
 ### ComputerControl
 
 ### GoogleChromeControl
+
+
+## WEB3
+
+### DAO Tools
+1. Create 
+  - https://guild.xyz/
+  - https://app.aragon.org/
+2. Dao Analysis
+  - https://thepass.to/
+
+
