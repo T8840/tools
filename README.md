@@ -64,4 +64,12 @@ Tools Summary
 2. Dao Analysis
   - https://thepass.to/
 
-
+### On-Chain Data Analysis
+1. SQL
+  - https://dune.com/
+  - https://debank.com/
+  - https://www.nansen.ai/
+  - https://www.footprint.network/
+2. Explorer
+  - https://etherscan.io/
+  - https://www.blockchain.com/explorer
