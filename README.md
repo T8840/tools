@@ -81,3 +81,7 @@ Tools Summary
   - wallet
   - ip tool
   - [混币器umbra](https://app.umbra.cash/)
+    1. 设置账户B作为中转账户也就是污染账户
+    2. A账户向B账户转账
+    3. B账户向C账户转账
+    4. 这样，C账户与A，B账户都没有关联
