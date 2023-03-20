@@ -78,6 +78,9 @@ Tools Summary
   - https://www.blockchain.com/explorer
 
 3.Air Drop Tool
+  - Guide Website
+    1. https://airdropalert.com/
+    2. https://airdrops.io/
   - wallet
   - ip tool
   - [混币器umbra](https://app.umbra.cash/)
