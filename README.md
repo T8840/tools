@@ -39,6 +39,7 @@ Tools Summary
   - https://wallhaven.cc/
 2. AI Create
   - https://www.midjourney.com
+  - [Midjourney提示词辅助器](https://prompt.noonshot.com/midjourney)
   - https://www.canva.com/
   
 ### Voice
