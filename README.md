@@ -6,7 +6,9 @@ Tools Summary
 1. Good Question
   - https://showgpt.co/
   - [优化问题：使用邮箱注册每个邮箱有20次免费次数](https://promptperfect.jinaai.cn/prompts)
-
+  - [提示词](https://newzone.top/chatgpt)
+    1. [源码](https://github.com/rockbenben/ChatGPT-Shortcut)
+  - 
 ### Excel
 1. AI Create
   - https://chatexcel.com/
