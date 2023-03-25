@@ -9,6 +9,9 @@ Tools Summary
   - [提示词](https://newzone.top/chatgpt)
     1. [源码](https://github.com/rockbenben/ChatGPT-Shortcut)
   - 
+### MindMap
+1. https://miro.com/
+
 ### Excel
 1. AI Create
   - https://chatexcel.com/
@@ -61,6 +64,10 @@ Tools Summary
   - [Doc](http://g1879.gitee.io/drissionpagedocs/)
 
 ## WEB3
+### IPFS
+1. Proxy
+  - https://www.pinata.cloud/
+
 
 ### DAO Tools
 1. Create 
