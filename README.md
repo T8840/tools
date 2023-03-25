@@ -5,8 +5,9 @@ Tools Summary
 ### ChatGPT
 1. Good Question
   - https://showgpt.co/
-  - [优化问题：使用邮箱注册每个邮箱有20次免费次数](https://promptperfect.jinaai.cn/prompts)
-  - [提示词](https://newzone.top/chatgpt)
+  - https://promptperfect.jinaai.cn/prompts
+    - 优化问题：使用邮箱注册每个邮箱有20次免费次数
+  - https://newzone.top/chatgpt
     1. [源码](https://github.com/rockbenben/ChatGPT-Shortcut)
   - 
 ### MindMap
@@ -55,7 +56,8 @@ Tools Summary
 ### Video
 1. AI Summary
   - https://www.assemblyai.com/
-
+  - https://b.jimmylv.cn/
+    - https://github.com/JimmyLv/BibiGPT
 
 ### ComputerControl
 
