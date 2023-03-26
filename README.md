@@ -46,6 +46,7 @@ Tools Summary
   - https://wallhaven.cc/
 2. AI Create
   - https://www.midjourney.com
+  - https://lexica.art/   
   - [Midjourney提示词辅助器](https://prompt.noonshot.com/midjourney)
   - https://www.canva.com/
   
