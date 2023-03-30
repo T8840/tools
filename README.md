@@ -40,7 +40,10 @@ Tools Summary
 ### PPT
 1. AI Create
   - https://tome.app/
- 
+2. AI Analysis
+  - https://www.chatpdf.com/
+  - https://chatdoc.com/
+
 ### Image
 1. Image Site
   - https://wallhaven.cc/
