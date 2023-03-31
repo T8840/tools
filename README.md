@@ -88,10 +88,10 @@ Tools Summary
   - https://debank.com/
   - https://www.nansen.ai/
   - https://www.footprint.network/
-2. Explorer
+2. Explorer Or Tool
   - https://etherscan.io/
   - https://www.blockchain.com/explorer
-
+  - https://cointool.app/
 3.Air Drop Tool
   - Guide Website
     1. https://airdropalert.com/
