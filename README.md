@@ -44,6 +44,11 @@ Tools Summary
   - https://www.chatpdf.com/
   - https://chatdoc.com/
 
+### Report
+1. AI Report
+  - https://github.com/guaguaguaxia/weekly_report
+
+
 ### Image
 1. Image Site
   - https://wallhaven.cc/
